@@ -1,0 +1,5 @@
+{
+    "git.requireGitUserConfig": true,
+    "git.terminalGitEditor": false,
+    "git.enabled": false
+}
